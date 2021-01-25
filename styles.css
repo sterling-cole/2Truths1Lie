@@ -1,0 +1,24 @@
+.FirstTruth{
+background-color: mediumslateblue;
+border-style:dotted;
+margin: 25px;
+text-align: center;
+font-size: large;
+font-family: fantasy;
+}
+.SecondTruth{
+    background-color: mediumspringgreen;
+    border-style: groove;
+    margin: 50px;
+    text-align: center;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.FirstLie{
+    background-color: mediumvioletred;
+    border-style: double;
+    margin: 75px;
+    text-align: center;
+    font-size: x-large;
+}
